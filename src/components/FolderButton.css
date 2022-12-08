@@ -1,0 +1,17 @@
+.folderButtonTitle {
+    width: 108px;
+    height: 17px;
+    margin-top: 10px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: var(--file-title);
+}
+
+.folderButtonContainer {
+    background-color: transparent;
+    border: none;
+    margin: 15px;
+}

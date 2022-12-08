@@ -1,0 +1,30 @@
+.topNavBar {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 35px;
+    width: 100%;
+    left: 0px;
+    top: 0px;
+    
+    background: rgba(9, 9, 9, 0.3);
+    color: #ffffff;
+  }
+  
+  .icons {
+    size:25px;
+    color: #ffffff;
+    margin-left: 25px;
+  }
+  
+  .topnav-right {
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+  }
+
+  .icon-button {
+    background: transparent;
+    border: none;
+}
